@@ -6,7 +6,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/austin-wood-401-advanced-javascript/lab-08/pull/1)
-* [travis]([![Build Status](https://www.travis-ci.com/austin-wood-401-advanced-javascript/lab-03.svg?branch=first-branch)](https://www.travis-ci.com/austin-wood-401-advanced-javascript/lab-03))
+* [travis]([![Build Status](https://www.travis-ci.com/austin-wood-401-advanced-javascript/lab-08.svg?branch=master)](https://www.travis-ci.com/austin-wood-401-advanced-javascript/lab-08))
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
@@ -43,4 +43,4 @@ Usage Notes or examples
 * What assertions need to be / should be made?
 
 #### UML
-Link to an image of the UML for your application and response to events
+* [UML](https://drive.google.com/open?id=1Z6Ytc_-b2FRzsDBS6Ws42A53vevDhyz0)
