@@ -11,7 +11,7 @@ const notFound = require( './middleware/404.js' );
 
 // Models
 // TODO: Pull these in (or create them)!
-const Products = require('./models/products.js');
+const Products = require('../models/products/product.js/index.js');
 const products = new Products();
 
 const Categories = require('./models/categories.js');
