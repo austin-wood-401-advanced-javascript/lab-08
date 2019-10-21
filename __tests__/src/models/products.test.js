@@ -1,4 +1,4 @@
-const Products = require('../../../src/models/products/products.js');
+const Products = require('../../../models/product.js/index.js');
 let products = new Products();
 
 const supergoose = require('../../supergoose.js');

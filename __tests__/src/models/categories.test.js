@@ -1,4 +1,4 @@
-const Categories = require('../../../src/models/categories/categories.js');
+const Categories = require('../../../models/categories.js/index.js');
 const supergoose = require('../../supergoose.js');
 
 let categories = new Categories();
