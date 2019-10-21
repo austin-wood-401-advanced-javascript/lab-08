@@ -42,14 +42,14 @@ class Model {
     return this.schema.findByIdAndUpdate(_id, record, { new: true });
   }
 
- /**
+  /**
   *
   *
   * @param {*} _id
   * @returns
   * @memberof Model
   */
- delete(_id) {
+  delete(_id) {
     return this.schema.findByIdAndDelete(_id);
   }
 }

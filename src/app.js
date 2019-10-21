@@ -11,10 +11,10 @@ const notFound = require( './middleware/404.js' );
 
 // Models
 // TODO: Pull these in (or create them)!
-const Products = require('../models/products/product.js/index.js');
+const Products = require('../models/products/product.js');
 const products = new Products();
 
-const Categories = require('./models/categories.js');
+const Categories = require('../models/categories/categories.js');
 const categories = new Categories();
 
 // Prepare the express app
